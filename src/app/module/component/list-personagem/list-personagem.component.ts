@@ -4,9 +4,9 @@ import { ListApiService } from 'src/app/shared/list.service';
 @Component({
   selector: 'spa-list-movie',
   templateUrl: './list-personagem.component.html',
-  styleUrls: ['./list-movie.component.css']
+  styleUrls: ['./list-personagem.component.css']
 })
-export class ListMovieComponent implements OnInit {
+export class ListPersonagemComponent implements OnInit {
 
   listData: Array<any> = [];
 
