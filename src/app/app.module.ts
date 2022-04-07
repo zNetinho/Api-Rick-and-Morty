@@ -6,7 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { ComponentComponent } from './module/component/component.component';
-import { ListMovieComponent } from './module/component/list-movie/list-movie.component';
+import { ListMovieComponent } from './module/component/list-movie/list-personagem.component';
 
 @NgModule({
   declarations: [

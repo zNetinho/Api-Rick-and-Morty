@@ -3,7 +3,7 @@ import { ListApiService } from 'src/app/shared/list.service';
 
 @Component({
   selector: 'spa-list-movie',
-  templateUrl: './list-movie.component.html',
+  templateUrl: './list-personagem.component.html',
   styleUrls: ['./list-movie.component.css']
 })
 export class ListMovieComponent implements OnInit {
