@@ -1,0 +1,22 @@
+.personagens {
+    display: flex;
+    margin: 10%;
+    flex-wrap: wrap;
+    align-items: stretch;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.cartao {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 5px;
+    border: solid 2px lightgray;
+    margin: 5px;
+}
+
+.card-body ul {
+    background-color: gray;
+}
